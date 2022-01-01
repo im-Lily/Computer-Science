@@ -142,8 +142,8 @@
     <p align="center">
       <img
         src="resources/1-2_CSS.png"
-        width="70%"
-        height="70%"
+        width="60%"
+        height="60%"
       />
     </p>
     <p align="center">[그림2. 컴퓨터 시스템 구조]</p>
