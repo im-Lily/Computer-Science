@@ -44,9 +44,9 @@
 
 <center>
   <img
-    src="resources/Untitled.png"
-    width="100%"
-    height="100%"
+    src="resources/1-1_OSD.png"
+    width="70%"
+    height="70%"
   />
 </center>
 
@@ -126,8 +126,8 @@
         <center>
           <img
             src="resources/1-2_CSS.png"
-            width="100%"
-            height="100%"
+            width="60%"
+            height="60%"
           />
         </center>
     
