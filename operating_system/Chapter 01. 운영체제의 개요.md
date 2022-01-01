@@ -42,8 +42,13 @@
 
  운영체제는 **사용자에게 편리한 인터페이스 환경을 제공하고, 컴퓨터 시스템의 자원을 효율적으로 관리하는 소프트웨어** 이다.
 
-![운영체제의 정의](resources/Untitled.png){: width="30%" height="30%"}
-<img src = "resources/Untitled.png" width="100%" height="100%">
+<center>
+  <img
+    src="resources/Untitled.png"
+    width="100%"
+    height="100%"
+  />
+</center>
 
 1. **운영체제의 역할**
     1. **자원 관리**
@@ -117,10 +122,15 @@
     1. 운영체제는 크게 커널에 명령을 전달하고 실행 결과를 사용자와 응용 프로그램에 돌려주는 **인터페이스**와 운영체제의 핵심 기능을 모아놓은 **커널**로 이루어짐
         
         **컴퓨터 시스템 구조**
-        
-        ![Untitled](Ch01%20%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%AA%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%201020341619514c21a71a5dad789030b9/Untitled%201.png)
-        
 
+        <center>
+          <img
+            src="resources/1-2_CSS.png"
+            width="100%"
+            height="100%"
+          />
+        </center>
+    
 ---
 
 1. 시스템 호출과 디바이스 드라이버
