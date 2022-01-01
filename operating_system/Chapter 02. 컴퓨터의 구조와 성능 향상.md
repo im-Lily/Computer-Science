@@ -1,13 +1,21 @@
 ## **Chapter 02. 컴퓨터의 구조와 성능 향상**
 
-------
+---
+
+### 목차
+[01. 컴퓨터의 기본 구성](#01-컴퓨터의-기본-구성)    
+[02. CPU와 메모리](#02-CPU와-메모리)  
+[03. 컴퓨터 성능 향상 기술](#03-컴퓨터-성능-향상-기술)  
+[04. 병렬 처리](#04-병렬-처리)  
+[05. [심화학습] 무어의 법칙과 암달의 법칙](#05-심화학습-무어의-법칙과-암달의-법칙)
+
+---
 
 ### 01. 컴퓨터의 기본 구성
-
-1. 하드웨어의 구성
-
-   1. 컴퓨터는 필수 장치인 중앙처리장치(CPU)와 메인메모리와 주변장치인 입출력, 저장장치로 구성된다.
-   2. 제1저장장치 : 휘발성 메모리인 "램" / 제2저장장치 : 비휘발성 메모리인 "롬", "플래시메모리", "하드디스크", "USB 메모리"
+1. 하드웨어의 구성  
+   - 컴퓨터는 필수 장치인 중앙처리장치(CPU)와 메인메모리와 주변장치인 입출력, 저장장치로 구성된다.
+   - 제 1 저장장치 : 휘발성 메모리인 "램" 
+   - 제 2 저장장치 : 비휘발성 메모리인 "롬", "플래시메모리", "하드디스크", "USB 메모리"
 
    - CPU와 메모리
      - CPU는 명령어를 해석하는 장치이며, 메모리는 작업에 필요한 프로그램과 데이터를 저장하는 장소로 바이트 단위로 분할된 공간을 주소로 구분한다.
@@ -118,7 +126,16 @@
 
       - 부팅 과정
 
-        ![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4a09f87-16b0-4c08-8b49-4d91de34616b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211229T012118Z&X-Amz-Expires=86400&X-Amz-Signature=21e8dc5ebdb2ed8b6d9fe5b0459175c9f30a9fe204d403a3c37b37220477d259&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+<p align="center">
+  <img
+    src="resources/2-1_BP.png"
+    width="60%"
+    height="60%"
+  />
+</p>
+<p align="center">[그림1. 부팅 과정]</p>
+<br>
+      
 
       ```
       1. 사용자가 컴퓨터 전원을 키면 ROM에 저장된 BIOS가 실행된다.
